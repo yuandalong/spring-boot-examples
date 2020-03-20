@@ -5,7 +5,9 @@ import com.neo.enums.UserSexEnum;
 import org.apache.ibatis.annotations.*;
 
 import java.util.List;
-
+//@Mapper
+//数据源配置类里加@MapperScan，此处就不需要另外写@Mapper了
+//单数据源的情况下可以在启动类里加@MapperScan
 public interface User1Mapper {
 
 
