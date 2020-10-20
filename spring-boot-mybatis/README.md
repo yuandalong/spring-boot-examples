@@ -1,0 +1,5 @@
+- spring-boot-mybatis-annotation 注解方式使用sql
+- spring-boot-mybatis-annotation-mulidatasource 多数据源
+- spring-boot-mybatis-plus mybatis-plus使用 
+- spring-boot-mybatis-xml xml方式使用sql
+- spring-boot-mybatis-xml-mulidatasource 多数据源

@@ -26,6 +26,7 @@
     <module>spring-boot-mybatis-annotation-mulidatasource</module>
     <module>spring-boot-mybatis-xml</module>
     <module>spring-boot-mybatis-xml-mulidatasource</module>
+    <module>spring-boot-mybatis-plus</module>
   </modules>
   <dependencyManagement>
 
